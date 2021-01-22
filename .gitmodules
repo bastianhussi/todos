@@ -1,0 +1,6 @@
+[submodule "webapp"]
+	path = webapp
+	url = git@github.com:bastianhussi/todos-webapp.git
+[submodule "api"]
+	path = api
+	url = git@github.com:bastianhussi/todos-api.git
